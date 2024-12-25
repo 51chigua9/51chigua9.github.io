@@ -22,11 +22,11 @@ favicon: https://github.com/dotponder/dotponder.github.io/raw/master/images/lemo
 navigation:
   - name: 首页
     url: /
-  - name: 吃瓜介绍
+  - name: 简介
     url: /about
-  - name: 热门大瓜
+  - name: 黑料
     url: /archive
-  - name: 分类
+  - name: 吃瓜
     url: /tags
   - name: 商务合作
     url: /likes
