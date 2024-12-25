@@ -24,9 +24,9 @@ navigation:
     url: /
   - name: 吃瓜介绍
     url: /about
-  - name: 最近大瓜
+  - name: 热门大瓜
     url: /archive
-  - name: 今日大瓜
+  - name: 分类
     url: /tags
   - name: 商务合作
     url: /likes
