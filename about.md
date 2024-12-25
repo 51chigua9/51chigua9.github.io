@@ -1,6 +1,6 @@
 ---
 layout: page
-title:51吃瓜网最新发布页
+title:51chigua
 permalink: /about/
 ---
 
