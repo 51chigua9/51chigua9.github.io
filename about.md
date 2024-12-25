@@ -1,6 +1,6 @@
 ---
 layout: page
-title:51chigua
+title: 51chigua
 permalink: /about/
 ---
 
