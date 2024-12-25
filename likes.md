@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 感谢关注！感谢支持！感谢打赏！
+title:  商务合作
 permalink: /likes/
 toc: true
 ---
+商务合作飞机[@gpcg1](https://t.me/gpcg1/)
