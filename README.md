@@ -5,18 +5,18 @@
 
 ### 友情链接
 
-51吃瓜网 [51吃瓜网](https://17chigua.pages.dev/)
+51吃瓜网 [最新官网入口](https://17chigua.pages.dev/7.html)
 
-黑料网 [黑料网](https://17chigua.pages.dev/0.html)
+黑料网 [最新官网入口](https://17chigua.pages.dev/0.html)
 
-91吃瓜网 [91吃瓜网](https://17chigua.pages.dev/1.html)
+91吃瓜网 [最新官网入口](https://17chigua.pages.dev/1.html)
 
-海角社区 [海角社区](https://17chigua.pages.dev/2.html)
+海角社区 [最新官网入口](https://17chigua.pages.dev/2.html)
 
-黑料不打烊 [黑料不打烊](https://17chigua.pages.dev/3.html)
+黑料不打烊 [最新官网入口](https://17chigua.pages.dev/3.html)
 
-草榴社区 [草榴社区](https://17chigua.pages.dev/4.html)
+草榴社区 [最新官网入口](https://17chigua.pages.dev/4.html)
 
-吃瓜网 [吃瓜网](https://17chigua.pages.dev/5.html)
+吃瓜网 [最新官网入口](https://17chigua.pages.dev/5.html)
 
-17吃瓜网 [17吃瓜网](https://17chigua.pages.dev/6.html)
+17吃瓜网 [最新官网入口](https://17chigua.pages.dev/6.html)
