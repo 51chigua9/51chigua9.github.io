@@ -1,10 +1,10 @@
 # Site settings
 title: 51吃瓜网
 SEOTitle: 51吃瓜网-黑料网-最新吃瓜黑料入口
-header-img: img/post-bg-index.jpg
+header-img: https://chigua-8.gpmv.live/static/logo.png
 email: 
 description: "51吃瓜网"
-keyword: "王志彪的博客, Will Wang, 王志彪, Java"
+keyword: "51吃瓜网, 17吃瓜网, 黑料网, 黑料不打烊, 91吃瓜网, 海角社区, 蘑菇视频TV, 吃瓜网,"
 url: "https://51chigua9.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
